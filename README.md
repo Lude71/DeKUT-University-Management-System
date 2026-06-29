@@ -51,3 +51,10 @@ The project demonstrates fundamental and intermediate SQL concepts including:
 
 Eliud Kigen
 Telecommunication and Information Engineering Student
+
+Screen Shots
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2652b4cf-4847-45b4-8603-fa65df586589" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ca2b2808-7a0c-4d02-a9a6-de9020d1a3cf" />
+
+
